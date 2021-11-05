@@ -4,7 +4,7 @@ public boolean firstMethod(){
 	return true;
 }
 
-public boolean secondMethod(){
+public boolean Method2(){
 	return false;
 }
 
